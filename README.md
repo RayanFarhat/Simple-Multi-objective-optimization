@@ -47,4 +47,3 @@ example of output file content after running:<br/>
 25.7 6.9 0.1
 24.22 6.22 0.22
 ```
-das
